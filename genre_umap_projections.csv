@@ -1,0 +1,866 @@
+Genre,GenreLemma,Cluster,UMAP0,UMAP1
+allari naresh,allari naresh,0,7.9027295,7.929388
+anushka shetty,anushka shetty,0,8.217672,8.655229
+arti agarwal,arti agarwal,0,7.697187,8.486831
+auli'i cravalho dwayne johnson,auli'i cravalho dwayne johnson,0,7.8237715,8.841336
+balakrishna nandamuri,balakrishna nandamuri,0,8.139361,9.053206
+bharath gopi,bharath gopi,0,7.908543,8.036203
+bhaskara s. narayanan,bhaskara s.narayanan,0,8.159344,9.114395
+bhoomika chawla,bhoomika chawla,0,7.9576654,8.650612
+biju menon,biju menon,0,7.929209,8.192469
+biodrama on alice robitaille,biodrama on alice robitaille,0,7.588861,8.610993
+buddy cop,buddy cop,0,7.602486,7.993699
+chanchal chowdhury masuma rahman nabila partha barua,chanchal chowdhury masuma rahman nabila partha barua,0,7.823059,8.151641
+charlie chan,charlie chan,0,8.313513,8.602491
+charmy kaur,charmy kaur,0,8.273124,8.598313
+debashree roy,debashree roy,0,7.5605326,7.403184
+genelia d'souza,genelia d'souza,0,8.222401,9.133773
+ileana d'cruz,ileana d'cruz,0,8.125792,9.1381235
+indira amperiani,indira amperiani,0,7.9267745,8.615011
+jagapati babu,jagapati babu,0,7.71661,7.7759576
+james bond,james bond,0,7.9569297,8.0163
+jidai-geki,jidai-geki,0,8.034126,9.024101
+kaiju eiga,kaiju eiga,0,7.611883,8.520905
+kalyan ram,kalyan ram,0,8.124352,8.153818
+kamalinee mukherjee,kamalinee mukherjee,0,8.093214,9.1663885
+kamalini mukherjee,kamalini mukherjee,0,8.116709,9.153832
+ken'ichi maysuyama,ken'ichi maysuyama,0,8.054785,9.024686
+kondavalasa lakshmana rao,kondavalasa lakshmana rao,0,8.004516,8.766023
+kota srinivasa rao,kota srinivasa rao,0,7.999607,8.6258545
+krishna bhagavaan,krishna bhagavaan,0,8.150213,9.124381
+lee sin-je,lee sin-je,0,7.729984,8.307262
+madhu sharma,madhu sharma,0,8.050023,7.930959
+mahesh babu,mahesh babu,0,7.9446645,8.020968
+meera chopra,meera chopra,0,8.01629,8.070364
+mimi chakraborty,mimi chakraborty,0,8.140703,9.200534
+mohit ahlawat,mohit ahlawat,0,7.6484575,7.673284
+mukesh rishi,mukesh rishi,0,8.112416,8.031466
+nadeem-shravan,nadeem-shravan,0,8.1032715,9.144381
+nedumudi venu,nedumudi venu,0,7.599983,7.6825066
+nusrat faria mazhar,nusrat faria mazhar,0,7.922362,8.38651
+nusrat jahan,nusrat jahan,0,7.9651628,8.2361555
+oleg sukachenko,oleg sukachenko,0,8.182031,9.180065
+olga khokhlova,olga khokhlova,0,8.07344,9.062305
+pawan kalyan,pawan kalyan,0,7.924541,8.061783
+poonam bajwa,poonam bajwa,0,7.710187,8.621307
+prabhu deva,prabhu deva,0,8.082202,8.008755
+prakash raj,prakash raj,0,7.809258,8.095058
+priyadarshini ram,priyadarshini ram,0,8.156778,8.191939
+priyanka kothari,priyanka kothari,0,8.223004,8.760028
+radhika joshi,radhika joshi,0,8.222299,8.456897
+raghava lawrence,raghava lawrence,0,8.257762,8.685985
+rajendra prasad,rajendra prasad,0,8.1244545,8.826149
+rajiv kanakala,rajiv kanakala,0,7.797095,8.72744
+ravi babu,ravi babu,0,7.7060995,7.7788754
+reema sen,reema sen,0,7.572604,7.617962
+reese witherspoon scarlett johansson,reese witherspoon scarlett johansson,0,7.808678,8.744891
+roman porno,roman porno,0,7.6041274,8.013188
+saloni aswani,saloni aswani,0,7.7428665,8.05545
+sameera reddy,sameera reddy,0,7.7998815,7.89577
+samskruti shenoy,samskruti shenoy,0,8.171337,8.790626
+sergey krapiventsev,sergey krapiventsev,0,8.175116,9.172922
+shraddha das,shraddha das,0,8.011178,7.894623
+shriya reddy,shriya reddy,0,8.310937,8.627344
+shriya saran,shriya saran,0,8.218542,8.47154
+siddharth narayan,siddharth narayan,0,8.294804,8.653999
+sindhu tolani,sindhu tolani,0,7.6719947,7.875459
+siva balaji,siva balaji,0,7.635171,7.865102
+sonu sood,sonu sood,0,7.905041,8.030727
+tapas paul,tapas paul,0,7.935461,7.9160867
+trisha krishnan,trisha krishnan,0,8.207541,9.187456
+uday kiran,uday kiran,0,7.793116,8.344993
+venu madhav,venu madhav,0,7.6561623,7.6800766
+vimala raman,vimala raman,0,8.103816,8.276888
+viswendar reddy,viswendar reddy,0,7.881972,8.251434
+yash dasgupta,yash dasgupta,0,8.2225,9.092115
+yeh saali zindagi,yeh saali zindagi,0,7.5948844,7.6100993
+yuen lai-kei,yuen lai-kei,0,7.997037,9.05638
+ worldwar i drama, worldwar i drama,1,0.9760326,5.5363545
+ worldwar ii action, worldwar ii action,1,0.8511462,5.320192
+ worldwar ii comedy, worldwar ii comedy,1,0.8093121,5.3236995
+ worldwar ii documentary, worldwar ii documentary,1,0.9264742,5.4418254
+ worldwar ii drama, worldwar ii drama,1,0.86716044,5.3693776
+ worldwar ii drama documentary, worldwar ii drama documentary,1,0.8796928,5.476922
+ worldwar1 propaganda, worldwar1 propaganda,1,-0.33862546,4.7123775
+action adventure,action adventure,1,-0.66178674,6.550392
+action comedy,action comedy,1,0.09618103,4.7595444
+action drama,action drama,1,0.12344629,5.67335
+action fantasy,action fantasy,1,-0.6689532,6.640742
+action romance,action romance,1,-0.19552842,6.4855976
+adult comedy,adult comedy,1,0.15842628,4.8371096
+adult drama,adult drama,1,0.2835401,5.7680655
+adult romance,adult romance,1,-0.1540534,6.361193
+adventure drama,adventure drama,1,-0.49794686,5.776396
+adventure fantasy,adventure fantasy,1,-0.80273396,6.6441402
+aids drama,aid drama,1,0.32259506,5.3327756
+animation adventure,animation adventure,1,-0.54836273,6.591434
+animation comedy,animation comedy,1,-0.68605113,5.338782
+animation comedy family,animation comedy family,1,-0.9648782,5.142852
+animation drama,animation drama,1,-0.7022609,5.6341124
+animation fantasy,animation fantasy,1,-0.7019416,6.69023
+anime drama,anime drama,1,-0.85176706,5.509955
+anime fantasy,anime fantasy,1,-0.85816824,6.568606
+anime war drama,anime war drama,1,1.1983703,5.6393294
+art house,art house,1,0.49960363,6.013061
+biker drama,biker drama,1,0.05130546,5.720635
+boxing drama,boxing drama,1,0.099555805,5.533406
+british-german co-production,british-german co-production,1,0.5918814,4.970121
+buddy comedy,buddy comedy,1,0.12214031,5.1011415
+campus drama,campus drama,1,0.32121673,5.964923
+children adventure,child adventure,1,-0.44274044,6.3804474
+children drama,child drama,1,-0.5694497,5.8239484
+clay animation,clay animation,1,0.79151964,6.0347896
+cold war,cold war,1,0.7666184,5.185031
+computer animated,computer animate,1,0.8644093,6.0478644
+computer animation,computer animation,1,0.60648745,6.0616884
+costume action,costume action,1,-0.86582583,5.9459696
+costume comedy,costume comedy,1,-0.56165457,5.3638783
+costume drama,costume drama,1,-0.77824473,5.7697053
+costume fantasy,costume fantasy,1,-0.75543475,6.603475
+crime comedy,crime comedy,1,-0.21448451,5.3325725
+crime drama,crime drama,1,0.04025869,5.878625
+crime fiction,crime fiction,1,-0.13348395,5.9996057
+crime melodrama,crime melodrama,1,-1.2248507,5.5117188
+crime mystery,crime mystery,1,-0.10285326,6.0321503
+crime romance,crime romance,1,-0.26840493,6.320851
+crime social drama,crime social drama,1,-1.024944,4.836837
+crime social romance,crime social romance,1,-0.8813103,4.7871737
+crime ttriller,crime ttriller,1,0.1238501,5.1252127
+cult drama,cult drama,1,0.41079667,5.9808884
+dance drama,dance drama,1,-0.6628026,5.8137045
+docufiction drama,docufiction drama,1,-0.7748344,5.7041507
+documentary drama,documentary drama,1,-1.0439919,5.624836
+drama anthology,drama anthology,1,-0.13979329,5.44022
+drama documentary,drama documentary,1,-0.8991778,5.6495924
+drama family,drama family,1,-0.8442988,5.0922074
+famil drama,famil drama,1,-0.15936032,5.7426276
+family adventure,family adventure,1,-0.09914627,6.406906
+family comedy,family comedy,1,-0.008298487,5.110096
+family drama,family drama,1,0.2950692,5.9253654
+family melodrama,family melodrama,1,-0.48876876,5.7005334
+family romance,family romance,1,-0.0491507,6.456604
+family social drama,family social drama,1,-0.8415071,4.9203167
+feature animation,feature animation,1,0.51302594,6.07848
+gangster drama,gangster drama,1,0.16278669,5.0969987
+hockey drama,hockey drama,1,-0.4830709,5.82361
+holocaust melodrama,holocaust melodrama,1,-1.2808533,5.4870815
+horror comedy,horror comedy,1,-0.57181406,5.2753983
+horror drama,horror drama,1,-0.5883865,5.734242
+horror mystery,horror mystery,1,-0.36334124,6.054751
+horror spoof,horror spoof,1,-0.8066803,5.179841
+huangmei opera,huangmei opera,1,0.77194506,5.563109
+inuit drama,inuit drama,1,0.53849924,4.8624578
+korean war,korean war,1,0.83566654,5.240366
+kungfu triad,kungfu triad,1,0.20769255,4.898181
+liberation war,liberation war,1,-0.10135629,5.9365797
+love story,love story,1,0.17853738,6.2355747
+malyana emergency adventure,malyana emergency adventure,1,0.0337553,6.2143435
+mockumentary comedy,mockumentary comedy,1,-0.6280408,5.2757955
+modern day passion play,modern day passion play,1,0.117732435,6.2731996
+murder mystery,murder mystery,1,-0.27753314,5.9805546
+mystery adventure,mystery adventure,1,-0.36631313,6.3263745
+mystery comedy,mystery comedy,1,-0.4445999,5.231574
+mystery drama,mystery drama,1,-0.41341564,5.666003
+mythology legend,mythology legend,1,-0.32381678,6.255351
+nationalboard docudrama,nationalboard docudrama,1,0.8223557,5.7788363
+nationalboard documentary,nationalboard documentary,1,0.7860303,5.795718
+nature documentary,nature documentary,1,0.88802844,5.8036475
+occult drama,occult drama,1,0.3743378,6.0346932
+period comedy,period comedy,1,0.052980512,5.095994
+period costume,period costume,1,0.044406235,6.4063864
+period drama,period drama,1,0.0606931,6.0060077
+period piece,period piece,1,0.14972542,6.3264074
+period romance,period romance,1,-0.012320439,6.421035
+police drama,police drama,1,0.30578387,5.857565
+portmanteau horror,portmanteau horror,1,-0.6453569,4.616455
+pow comedy,pow comedy,1,-0.409391,5.142805
+prison drama,prison drama,1,0.33250955,5.9174304
+reincarnation drama,reincarnation drama,1,0.6159663,5.980729
+reincarnation romance,reincarnation romance,1,-0.5062858,6.645685
+road movie,road movie,1,0.50087756,6.0331426
+rom-com crime,rom-com crime,1,-0.2291888,4.9311857
+romance action,romance action,1,-0.94380105,5.800847
+romance drama,romance drama,1,-1.2326818,5.4464993
+satire drama,satire drama,1,-0.012919982,5.7609696
+science fantasy,science fantasy,1,-0.72161794,6.615122
+screwball comedy,screwball comedy,1,-0.50006866,5.1597767
+sex comedy,sex comedy,1,-0.12150912,5.017423
+slapstick comedy,slapstick comedy,1,-0.4001931,5.1011405
+space opera,space opera,1,0.7856008,5.9555664
+splatter comedy,splatter comedy,1,-0.41301274,5.486033
+sports comedy,sport comedy,1,-0.625907,5.3534994
+sports drama,sport drama,1,-0.6138604,5.770633
+sport drama,sport drama,1,-0.5885749,5.824476
+spy anthology,spy anthology,1,-0.10920107,4.902665
+summer camp comedy,summer camp comedy,1,-0.039118346,5.544718
+superhero comedy,superhero comedy,1,-0.22413594,4.713596
+television drama,television drama,1,-0.59066457,5.8555036
+thai boxing drama,thai boxing drama,1,0.30391568,5.617568
+thriller travelogue,thriller travelogue,1,0.871971,5.7684965
+time travel,time travel,1,-0.4290287,6.0907717
+tokusatsu v-cinema,tokusatsu v-cinema,1,1.1886699,5.0241647
+war comedy,war comedy,1,-0.040463164,5.5147653
+war documentary,war documentary,1,0.8332596,5.738843
+war drama,war drama,1,0.1719955,5.8609886
+war drama propaganda,war drama propaganda,1,-0.46472412,5.768522
+war propaganda,war propaganda,1,-0.05313668,5.7991123
+war romance,war romance,1,-0.17285034,6.1672506
+war spy,war spy,1,-0.022174235,5.9296875
+wartime drama,wartime drama,1,-0.21948862,5.781181
+worldwar i drama,worldwar i drama,1,1.0207253,5.605757
+youth drama,youth drama,1,-0.5017085,5.7510734
+youth music drama,youth music drama,1,-0.9937421,4.941859
+adult,adult,2,6.6330233,1.6357197
+ali,ali,2,7.4424124,1.797045
+animated,animate,2,6.177112,1.7045989
+asin,asin,2,6.252565,1.6388627
+biblical,biblical,2,6.3914986,2.5761719
+biographic,biographic,2,6.5333595,2.7132885
+biographical,biographical,2,6.480686,2.6875122
+christian,christian,2,6.6624126,2.4130657
+cult,cult,2,6.714277,1.5700173
+cultural,cultural,2,6.176838,1.7167989
+devotional,devotional,2,6.6881137,2.523243
+educational,educational,2,6.535466,2.6564941
+environmental,environmental,2,6.4398036,2.5801587
+epic,epic,2,6.8274026,2.5040576
+epic-historical,epic-historical,2,5.938734,2.9306397
+erotic,erotic,2,6.6419964,2.6419342
+experimental,experimental,2,6.558436,2.358068
+historic,historic,2,6.141024,1.73185
+historical,historical,2,6.614577,2.5151327
+homosexual,homosexual,2,6.5397053,2.6744964
+human rights,human right,2,6.147332,1.8009927
+independent,independent,2,6.227832,1.8011295
+international,international,2,6.225735,1.7165079
+investigative,investigative,2,7.1293497,2.6521275
+military,military,2,6.3275375,1.7122679
+musical,musical,2,6.4516973,2.5395799
+mythological,mythological,2,6.391432,2.731761
+patriotic,patriotic,2,6.5644655,2.7116926
+perodic,perodic,2,7.2018995,2.6163132
+political,political,2,6.2223673,1.7561221
+post-apocalyptic,post-apocalyptic,2,6.125407,2.860437
+religious,religious,2,6.2672744,1.7835702
+romantic,romantic,2,6.7135015,2.636741
+serial,serial,2,6.5248733,1.8030363
+sexual,sexual,2,6.3983326,1.8511848
+shakespearean,shakespearean,2,6.5000033,2.6199007
+short,short,2,6.1662297,1.7499945
+social,social,2,6.1874456,1.7286762
+socio-political,socio-political,2,6.1198206,2.851552
+stylish,stylish,2,6.5697737,2.760376
+supernatural,supernatural,2,6.705665,2.3430846
+teen,teen,2,6.228408,1.7926322
+triad,triad,2,6.678785,2.5516198
+unknown,unknown,2,6.3688393,1.8377545
+vampire,vampire,2,6.921486,2.2859914
+western,western,2,6.1219697,1.7323967
+zombie,zombie,2,7.005424,2.342629
+ worldwar i, worldwar i,3,2.5871809,5.746065
+ worldwar ii, worldwar ii,3,2.797365,5.6757436
+action romantic,action romantic,3,2.525802,4.8465877
+action western,action western,3,2.4504511,5.320677
+adventure serial,adventure serial,3,2.3163064,5.3308244
+animated short,animate short,3,2.5375266,4.5574756
+animated short ,animate short,3,2.597647,4.6986184
+animated musical,animated musical,3,2.7207417,4.8059173
+animation musical,animation musical,3,2.1813807,4.863298
+anime martial arts,anime martial art,3,1.7993146,5.347449
+australian western,australian western,3,2.8780403,5.171335
+avant-garde,avant-garde,3,2.995581,5.2252364
+cartoon short,cartoon short,3,1.8260499,4.795897
+children's,child's,3,2.4628687,4.9835935
+classic muslim social,classic muslim social,3,2.7907393,5.150666
+comedy 2-reeler,comedy 2-reeler,3,1.52881,5.358856
+comedy short,comedy short,3,1.9003882,4.8678665
+comedy western,comedy western,3,1.9483578,5.615788
+computer-animated,computer-animate,3,2.5612197,4.495712
+crime biographical,crime biographical,3,1.8853428,4.8696184
+crime musical,crime musical,3,2.0736513,5.012076
+crime western,crime western,3,2.176334,5.2168136
+devotional biographical,devotional biographical,3,2.612785,3.717826
+devotional-biographical,devotional-biographical,3,2.8210309,3.9485853
+documentary short,documentary short,3,1.7856305,4.7599225
+drama romance musical,drama romance musical,3,2.1626482,5.482061
+drama social,drama social,3,2.0047836,4.8772435
+dramatic biographical,dramatic biographical,3,2.6549697,3.7346537
+epic drama set 4,epic drama set 4,3,2.1169753,5.555625
+epic western,epic western,3,2.821988,5.15672
+erotic musical,erotic musical,3,2.7621949,4.8457875
+experimental short,experimental short,3,2.643245,4.6823254
+family drama social,family drama social,3,2.2006505,5.419132
+family social,family social,3,2.3959248,5.1422906
+fantasy-children's,fantasy-child's,3,2.286059,5.1589723
+historical biographical,historical biographical,3,2.6277525,3.692863
+horror musical,horror musical,3,2.2022977,4.935558
+legend romance musical,legend romance musical,3,2.1559982,5.4921966
+musical b,musical b,3,2.561891,4.702824
+musical biographical,musical biographical,3,2.656254,3.7593374
+musical western,musical western,3,2.8042078,5.1314354
+muslim social,muslim social,3,2.8363824,5.225635
+nationalboard animated short,nationalboard animate short,3,2.7220802,5.331871
+nationalboard stop motion animated short,nationalboard stop motion animate short,3,2.4663765,5.3998976
+neo-noir,neo-noir,3,2.871066,5.0428867
+nfb animated short,nfb animate short,3,2.4970357,5.3759627
+propaganda short,propaganda short,3,1.6394356,4.725058
+propaganda short animated short,propaganda short animate short,3,2.2218053,5.4274845
+ravi teja,ravi teja,3,1.3790779,5.112391
+revolutionary patriotic,revolutionary patriotic,3,2.6900496,4.725196
+rock musical,rock musical,3,2.2209597,4.9397783
+romance musical,romance musical,3,1.986756,4.882297
+romance social,romance social,3,2.0486994,4.8907943
+romantic drama social,romantic drama social,3,2.2422135,5.4490223
+romantic musical,romantic musical,3,2.7552576,4.8359427
+romantic muslim social,romantic muslim social,3,2.8646464,5.2287574
+sci-fi western,sci-fi western,3,1.976008,5.5976963
+social biographical,social biographical,3,2.6705897,3.7824519
+social romance musical,social romance musical,3,2.1304402,5.528567
+south african western,south african western,3,2.848549,5.333009
+sports biographical,sport biographical,3,1.7080967,4.825819
+war biographical,war biographical,3,2.0298605,5.0367513
+war short,war short,3,1.8555536,5.2476587
+western musical,western musical,3,2.721833,5.020735
+western serial,western serial,3,1.4712105,5.634778
+worldwar i,worldwar i,3,2.6429422,5.732474
+worldwar ii,worldwar ii,3,2.87659,5.629571
+action for children,action for child,4,-3.2224267,1.6504625
+action-adventure,action-adventure,4,-1.8008225,1.5248127
+action-comedy,action-comedy,4,-2.686328,1.1593004
+action-drama,action-drama,4,-2.5010273,1.2496818
+action-thriller,action-thriller,4,-2.4973123,0.87910324
+adapted from the play by alexandre goyette,adapt from the play by alexandre goyette,4,-3.792743,1.9332665
+adaptation of a play by michel marc bouchard,adaptation of a play by michel marc bouchard,4,-3.7796612,1.9424051
+adventure-comedy,adventure-comedy,4,-2.8740127,1.09827
+animation-drama,animation-drama,4,-2.8083746,1.041344
+anime for children,anime for child,4,-3.1781905,1.5144588
+bio-drama,bio-drama,4,-1.8314731,1.6256131
+biographical comedy-drama,biographical comedy-drama,4,-2.7801995,1.5789093
+biographical of pioneering american photographer eadweard muybridge,biographical of pioneer american photographer eadweard muybridge,4,-3.6444573,1.9888064
+coming of age,come of age,4,-3.293127,1.8270423
+coming of age drama,come of age drama,4,-3.170456,2.0411093
+coming-of-age,come-of-age,4,-3.1568084,1.8700033
+coming-of-age drama,come-of-age drama,4,-3.1555283,2.1340427
+comedy-drama,comedy-drama,4,-2.7981107,1.225109
+comedy-drama adaptation of the mordecai richler novel,comedy-drama adaptation of the mordecai richler novel,4,-3.7687821,1.9623431
+comedy-horror,comedy-horror,4,-2.8911376,1.0513475
+comedy-thriller,comedy-thriller,4,-2.7579784,1.0733162
+crime comedy-drama,crime comedy-drama,4,-2.6969042,1.6758558
+crime-thriller,crime-thriller,4,-2.6371548,0.8529271
+direct-to-dvd,direct-to-dvd,4,-2.4893315,1.6758323
+drama adapted from the play by michel-marc bouchard,drama adapt from the play by michel-marc bouchard,4,-3.805001,1.9140806
+drama adapted from wajdi mouawad's play of the same name,drama adapt from wajdi mouawad's play of the same name,4,-3.8193564,1.9109315
+drama-comedy,drama-comedy,4,-2.9458904,1.1002944
+drama-comedy-social,drama-comedy-social,4,-2.8574138,1.213466
+drama-thriller,drama-thriller,4,-2.6318338,1.0273829
+entered into the 11th moscow international film festival,enter into the 11th moscow international film festival,4,-3.788999,1.9013894
+family comedy-drama,family comedy-drama,4,-2.723247,1.5702232
+fantasy-comedy,fantasy-comedy,4,-2.9755545,1.1449237
+fiction made with the nationalboard,fiction make with the nationalboard,4,-3.6712353,2.0923488
+gangster-thriller,gangster-thriller,4,-2.509436,0.8419171
+heist-comedy,heist-comedy,4,-2.8703277,0.9701887
+historical biodrama on the early years of hitler,historical biodrama on the early year of hitler,4,-3.6209056,1.9983909
+horror from the novel by bram stoker,horror from the novel by bram stoker,4,-3.721982,1.983811
+horror-thriller,horror-thriller,4,-2.5505614,0.8412572
+inspired by true event,inspire by true event,4,-3.477713,1.9553844
+lgbt-themed comedy-drama,lgbt-theme comedy-drama,4,-2.7348757,1.6585883
+musical-comedy,musical-comedy,4,-2.9043703,1.1356426
+rom-com-drama,rom-com-drama,4,-2.5340688,1.7134445
+romance-action,romance-action,4,-2.7165196,0.93891174
+romance-horror,romance-horror,4,-2.6861997,0.85197693
+romantic-comedy,romantic-comedy,4,-2.9231052,1.1101695
+sci-fi action-comedy,sci-fi action-comedy,4,-2.7635605,1.4863707
+sci-fi for children,sci-fi for child,4,-3.1641173,1.4948272
+slice of life,slice of life,4,-3.104724,1.5637095
+suspense-thriller,suspense-thriller,4,-2.7065356,0.953039
+teen rom-com-drama,teen rom-com-drama,4,-2.7611485,1.6404945
+war-comedy,war-comedy,4,-2.8856966,1.0913776
+war-time romance melodrama,war-time romance melodrama,4,-2.932799,2.089757
+western-comedy,western-comedy,4,-2.918346,1.2863744
+action adventure sci-fi,action adventure sci-fi,5,-2.105962,4.8545475
+action adventure thriller spy,action adventure thriller spy,5,-2.4901981,5.3609138
+action crime thriller,action crime thriller,5,-2.406598,4.7307577
+action mystery thriller,action mystery thriller,5,-2.404131,5.0924053
+action-adventure science fantasy,action-adventure science fantasy,5,-2.2600043,5.196105
+adventure action comedy,adventure action comedy,5,-1.6988947,5.21137
+adventure horror,adventure horror,5,-2.7572365,4.282152
+adventure thriller,adventure thriller,5,-2.6454859,4.7111397
+animation martial arts action-comedy,animation martial art action-comedy,5,-2.304691,5.13188
+anime action adventure,anime action adventure,5,-2.2266374,4.817427
+anime drama mystery fantasy,anime drama mystery fantasy,5,-2.4426615,5.4746594
+campus thriller,campus thriller,5,-2.8271189,4.5780516
+cbc-tv miniseries,cbc-tv miniserie,5,-2.8912325,4.0651073
+comedy drama anime,comedy drama anime,5,-1.7416221,4.6150174
+conspiracy thriller,conspiracy thriller,5,-2.75309,4.538438
+costume action adventure,costume action adventure,5,-2.1980374,4.9866295
+costume martial arts,costume martial art,5,-1.3236974,5.0192766
+costume social drama,costume social drama,5,-1.2770568,5.018579
+crime dramedy,crime dramedy,5,-2.4654555,4.4437485
+crime suspense romance,crime suspense romance,5,-2.123975,5.34803
+crime thriller,crime thriller,5,-2.8219328,4.641972
+crime thriller romance,crime thriller romance,5,-2.298786,5.372912
+drama action,drama action,5,-2.0029492,4.614925
+drama action adventure,drama action adventure,5,-2.1140413,5.068314
+drama comedy,drama comedy,5,-2.0568395,5.4200206
+drama family romance war,drama family romance war,5,-1.9677504,5.2547264
+drama horror thriller,drama horror thriller,5,-2.5191646,5.3598614
+drama romance,drama romance,5,-1.6687438,5.2953463
+drama thriller,drama thriller,5,-2.3751822,5.1933603
+drama war,drama war,5,-1.5711997,5.3961105
+espionage thriller,espionage thriller,5,-2.7071345,4.379465
+family comedy romance,family comedy romance,5,-2.0447817,5.3279934
+family drama romance,family drama romance,5,-2.012205,5.3242936
+family romance action,family romance action,5,-1.8646263,4.9757237
+fantasy adventure comedy,fantasy adventure comedy,5,-1.6936496,4.9800925
+gangster thriller,gangster thriller,5,-2.5082648,4.2066665
+horror drama comedy,horror drama comedy,5,-2.3224304,5.467675
+horror rom-com,horror rom-com,5,-2.0498526,4.5814934
+horror thriller,horror thriller,5,-2.6971061,4.480193
+kungfu action,kungfu action,5,-1.6258645,4.441414
+kungfu action drama,kungfu action drama,5,-1.6080804,4.4223375
+mystery thriller,mystery thriller,5,-2.682943,4.521866
+period thriller,period thriller,5,-2.7881844,4.5657825
+psycho thriller,psycho thriller,5,-2.7003205,4.440823
+reincarnation suspense thriller,reincarnation suspense thriller,5,-2.467769,5.153323
+road thriller,road thriller,5,-2.8477914,4.631839
+romance action drama,romance action drama,5,-2.1597824,5.364011
+romance crime drama,romance crime drama,5,-2.146769,5.2595716
+romance drama war,romance drama war,5,-2.2763505,5.541845
+romance dramedy,romance dramedy,5,-2.6391256,4.4858613
+romance social drama,romance social drama,5,-1.2142162,4.956343
+romance suspense,romance suspense,5,-2.5685525,4.41448
+romance suspense thriller,romance suspense thriller,5,-2.4492753,5.197883
+romance thriller,romance thriller,5,-2.7163756,4.555638
+romance thriller drama,romance thriller drama,5,-2.3647192,5.4660873
+sci-fi drama supernatural,sci-fi drama supernatural,5,-2.387289,5.4833107
+superhero action adventure,superhero action adventure,5,-2.2498782,4.8854103
+suspense thriller,suspense thriller,5,-2.5021236,4.2576485
+television miniseries,television miniserie,5,-2.9156897,4.0898004
+thriller action,thriller action,5,-2.285385,4.1952057
+thriller action romance,thriller action romance,5,-2.151255,4.469111
+thriller comedy,thriller comedy,5,-2.263821,4.3037205
+thriller drama,thriller drama,5,-2.2352252,4.279481
+thriller romance,thriller romance,5,-2.1583114,4.369394
+tragedy drama romance,tragedy drama romance,5,-2.0596871,5.382706
+tv miniseries,tv miniserie,5,-2.8799224,4.064393
+war family drama,war family drama,5,-1.4655505,4.9391427
+ worldwarii drama, worldwarii drama,6,0.21077894,3.1806312
+000 years ago in the canadian arctic,000 year ago in the canadian arctic,6,-0.0886971,2.2517366
+16 mm,16 mm,6,-0.12948112,3.7651193
+action entertainer,action entertainer,6,-1.0927734,2.1882093
+afghan war drama,afghan war drama,6,0.017927138,3.1550174
+african adventure,african adventure,6,0.046459906,2.871427
+african drama,african drama,6,0.14171188,3.1254752
+american football,american football,6,0.12606165,3.057036
+ancient-costume,ancient-costume,6,-0.6735664,2.1191354
+animated comedy,animate comedy,6,0.24267745,4.3400297
+animated adventure,animated adventure,6,0.354508,1.9962224
+animated drama,animated drama,6,0.36677817,2.2964666
+animated fantasy,animated fantasy,6,0.31859878,2.0107212
+animated feature,animated feature,6,0.42092916,2.2005434
+animated feature ,animated feature,6,0.42851245,2.1750534
+animated series,animated series,6,0.46571705,2.6761117
+biblical drama,biblical drama,6,-0.44522452,2.8808787
+biblical epic,biblical epic,6,-0.9171168,2.7699764
+biographical crime,biographical crime,6,-0.18525407,2.105805
+biographical devotional,biographical devotional,6,1.0581568,3.0459836
+biographical drama,biographical drama,6,-0.923566,2.674611
+biographical fim,biographical fim,6,0.51476127,2.390729
+biographical legend devotional,biographical legend devotional,6,1.0182709,3.1427507
+biographical war,biographical war,6,-0.13062882,2.2192423
+black comedy,black comedy,6,0.20057382,4.0790763
+black humour,black humour,6,0.1431149,3.9297488
+christian drama,christian drama,6,0.1685276,3.1996582
+colonial adventure,colonial adventure,6,-0.252832,3.2279522
+comedic drama,comedic drama,6,-0.8778633,2.8493242
+comedy adventure,comedy adventure,6,-0.77944773,2.0673454
+comedy family,comedy family,6,-0.8575096,3.9533496
+dark comedy,dark comedy,6,0.22918518,3.9878378
+dark fantasy,dark fantasy,6,0.37342718,3.2196894
+dark slasher,dark slasher,6,-0.79868126,1.8170352
+detective drama,detective drama,6,0.63112336,3.590756
+detective fiction,detective fiction,6,0.30288422,2.3534956
+devotional horror,devotional horror,6,-0.63677174,1.8580958
+drama loosely,drama loosely,6,-0.41600442,3.701189
+dramatic comedy,dramatic comedy,6,0.06494757,2.4143643
+epic drama,epic drama,6,-0.29312178,2.6194336
+epic fantasy,epic fantasy,6,0.17239596,2.0094097
+erotic comedy,erotic comedy,6,0.15318677,2.5957937
+erotic drama,erotic drama,6,-0.3618659,2.766149
+erotic horror,erotic horror,6,-0.6838181,1.8785127
+fairy tale,fairy tale,6,0.038116857,1.9238492
+fantasy action,fantasy action,6,-0.6565464,2.383448
+fantasy adventure,fantasy adventure,6,-0.8855299,2.1900105
+fantasy anime,fantasy anime,6,0.030862771,3.5776942
+fantasy comedy,fantasy comedy,6,-0.13013603,4.103613
+fantasy costume,fantasy costume,6,-0.8233711,2.2389975
+fantasy drama,fantasy drama,6,-0.14496101,3.7091904
+fantasy romance,fantasy romance,6,-0.86853814,3.502364
+fantasy-period,fantasy-period,6,-1.2288387,1.8491926
+futuristic drama,futuristic drama,6,-0.32495263,2.6153958
+gangster black comedy,gangster black comedy,6,-0.72787756,3.682972
+gothic mystery,gothic mystery,6,-0.20861623,1.9776708
+historical adventure,historical adventure,6,-0.23604146,2.0863726
+historical anime,historical anime,6,0.62645394,2.9609509
+historical comedy,historical comedy,6,0.4203844,2.4911134
+historical costume romance,historical costume romance,6,-1.0555999,3.00815
+historical crime,historical crime,6,-0.019243822,2.1571467
+historical dram,historical dram,6,0.6590829,2.6912272
+historical drama,historical drama,6,0.3885607,2.8894227
+historical epic,historical epic,6,0.7707931,2.960453
+historical fantasy,historical fantasy,6,0.32494822,2.1627908
+historical fiction,historical fiction,6,0.48349068,2.4273555
+historical horror,historical horror,6,-0.11368999,2.0451152
+historical romance,historical romance,6,-0.06982015,2.263227
+independent movie,independent movie,6,0.42499632,3.5834508
+interactive cinema,interactive cinema,6,0.2567167,2.3363347
+legal drama,legal drama,6,0.2777882,3.5559816
+literary adaptation,literary adaptation,6,-0.2657668,2.1184576
+literary drama,literary drama,6,-0.546642,2.6730256
+live action,live action,6,0.079435594,3.3617103
+live-action,live-action,6,-0.97419935,2.030784
+magical girl,magical girl,6,0.36501178,2.186524
+martial arts,martial art,6,0.47956097,2.904578
+martial art,martial art,6,0.43927523,2.9674075
+martial arts comedy,martial art comedy,6,-0.8324669,3.9652157
+martial-arts,martial-art,6,0.5016336,2.9688334
+medical drama,medical drama,6,0.37356704,3.6378622
+military romance,military romance,6,-0.49412867,3.4036143
+musical comedy,musical comedy,6,-0.09591885,2.935295
+musical drama,musical drama,6,-0.80239815,2.7671402
+musical fantasy,musical fantasy,6,0.26421285,2.1087086
+musical romance,musical romance,6,-0.44423354,2.633641
+outlaw biker,outlaw biker,6,-0.78067696,1.9003693
+political comedy,political comedy,6,0.22620802,3.9774554
+political drama,political drama,6,0.25434053,3.5314274
+political satire,political satire,6,0.2191387,3.9058897
+prehistoric adventure,prehistoric adventure,6,-0.47590894,2.0688279
+pseudo-documentary,pseudo-documentary,6,-1.6106144,1.620116
+psychological horror,psychological horror,6,-0.3622551,1.9053054
+religious drama,religious drama,6,0.32140318,3.4807296
+romanctic comedy,romanctic comedy,6,0.46962446,3.0408962
+romanctic drama,romanctic drama,6,0.62870413,3.3271523
+romantic action,romantic action,6,-0.41658843,2.1688967
+romantic adventure,romantic adventure,6,-0.31907505,2.0285926
+romantic comedy,romantic comedy,6,0.11167627,2.463324
+romantic crime,romantic crime,6,-0.2535252,2.0010867
+romantic drama,romantic drama,6,-0.19646032,2.6266468
+romantic drama triangle,romantic drama triangle,6,-0.9747822,2.994164
+romantic fantasy,romantic fantasy,6,0.14302681,1.9330647
+romantic melodrama,romantic melodrama,6,-0.712999,2.6636572
+romantic triangle,romantic triangle,6,0.6294781,3.1955864
+satirical comedy,satirical comedy,6,0.121534824,2.499118
+sci-fi comedy,sci-fi comedy,6,-0.91578716,3.8394709
+sexual drama,sexual drama,6,0.24349743,3.563788
+sexual hygiene,sexual hygiene,6,-0.32699054,3.3919508
+shakespearean drama,shakespearean drama,6,-0.3764522,2.745604
+short action,short action,6,-0.014891527,3.174494
+short animation,short animation,6,0.22237863,3.3166935
+short black comedy,short black comedy,6,-0.74663675,3.643313
+short comedy,short comedy,6,0.26256633,4.0515113
+short documentary,short documentary,6,-0.7962454,2.8952496
+short drama,short drama,6,-0.36814,2.9614298
+short fantasy,short fantasy,6,-0.15319651,3.064251
+short mystery,short mystery,6,-0.18740842,3.0220454
+short subject,short subject,6,0.09950552,3.2508636
+silent sports,silent sport,6,-0.01023447,2.6860085
+social action,social action,6,-0.1855302,3.1211004
+social children,social child,6,0.032667432,3.8583806
+social comedy,social comedy,6,0.2531026,3.9653618
+social crime,social crime,6,-0.61279976,2.8197424
+social drama,social drama,6,0.34486693,3.6322372
+social family,social family,6,-0.84967834,3.3256726
+social family romance,social family romance,6,-0.9417418,3.324784
+social romance,social romance,6,-0.53546226,3.2704
+social satire,social satire,6,0.2401087,3.93645
+socio-fantasy,socio-fantasy,6,-1.6925646,1.6047825
+spy action,spy action,6,-0.58182555,2.3102105
+spy comedy,spy comedy,6,-0.38976106,3.6820698
+spy drama,spy drama,6,-0.047223333,3.6378634
+spy serial,spy serial,6,0.850979,3.2903779
+spy spoof,spy spoof,6,-0.38242233,3.6970003
+supernatural action,supernatural action,6,-0.44554466,2.3266673
+supernatural comedy,supernatural comedy,6,0.3021579,2.6544416
+supernatural horror,supernatural horror,6,-0.36443448,1.911523
+surreal comedy,surreal comedy,6,0.26937768,2.79467
+surreal drama,surreal drama,6,-0.120597444,2.8957274
+suspense romance,suspense romance,6,-0.44662443,3.790989
+teen comedy,teen comedy,6,-0.07590075,4.3041544
+teen drama,teen drama,6,-0.34417513,4.0004625
+teen romance,teen romance,6,-0.39124638,3.9839177
+tragic comedy,tragic comedy,6,0.2553523,2.663333
+true crime,true crime,6,-0.5010579,2.8982947
+western comedy,western comedy,6,0.2971628,4.2279882
+western drama,western drama,6,0.6347102,4.0939894
+western romance,western romance,6,-0.5256113,3.3563945
+zombie comedy,zombie comedy,6,-0.37616664,4.168322
+zombie horror,zombie horror,6,-0.6044838,1.9181906
+3d,3d,7,7.9005733,0.2113145
+action,action,7,7.4383745,0.6299905
+action-love,action-love,7,8.590153,-0.4782926
+adventure,adventure,7,8.516313,-0.38997066
+adventures,adventure,7,8.485172,-0.3839849
+animation,animation,7,8.496008,-0.21959233
+anthology,anthology,7,8.7188225,-0.32009143
+art,art,7,7.907897,0.011406864
+aviation,aviation,7,8.719698,-0.40197998
+biodrama,biodrama,7,9.075799,-0.16195367
+blaxploitation,blaxploitation,7,9.197715,-0.44089454
+boxing,boxing,7,7.4381595,0.54236794
+bruceploitation,bruceploitation,7,9.109418,-0.36269832
+business,business,7,7.698075,0.22787295
+campus,campus,7,7.6090913,0.36039898
+cartoon,cartoon,7,8.190819,0.10685183
+children,child,7,7.700941,0.37396857
+comedy,comedy,7,8.768023,-0.6451363
+compilation,compilation,7,8.478781,-0.083558336
+concert,concert,7,7.3326135,0.673333
+costume,costume,7,7.9938807,-0.056743935
+counterculture,counterculture,7,8.211431,0.14150237
+crime,crime,7,8.114399,-0.20447293
+critically acclaimed,critically acclaim,7,7.264329,0.91198254
+cyberpunk,cyberpunk,7,8.967959,0.30292562
+dance,dance,7,7.8580527,0.4358234
+dev,dev,7,7.5263667,1.493931
+disaster,disaster,7,8.827746,-0.49160415
+docudrama,docudrama,7,8.949139,0.3828035
+documentary,documentary,7,8.681751,-0.5430432
+drama,drama,7,8.792147,-0.5981675
+drama ,drama,7,8.843068,-0.5080496
+dramedy,dramedy,7,8.984728,-0.52649176
+dystopia,dystopia,7,8.301513,0.1007851
+erotica,erotica,7,8.7625065,-0.12808786
+espionage,espionage,7,8.772124,-0.28047782
+exploitation,exploitation,7,9.055928,-0.51176107
+family,family,7,7.867099,0.064331986
+fantasy,fantasy,7,8.531255,0.0786513
+fiction,fiction,7,7.830389,0.41802463
+fighting,fighting,7,7.4822526,0.4964948
+folklore,folklore,7,8.179998,0.23082632
+heist,heist,7,8.669295,-0.4281556
+history,history,7,7.8479977,0.26558658
+horror,horror,7,8.887158,-0.15530387
+kids,kid,7,7.591744,0.55242705
+kungfu,kungfu,7,9.040875,-0.192449
+love,love,7,7.586435,0.45453152
+melodrama,melodrama,7,8.974193,-0.47465548
+mob,mob,7,7.4939213,0.8227072
+mockumentary,mockumentary,7,8.9031725,0.20357046
+monster,monster,7,7.627469,0.7170773
+music,music,7,7.2572393,0.8096663
+mystery,mystery,7,8.828611,-0.39604697
+mythology,mythology,7,8.778617,-0.41408554
+nature,nature,7,7.739171,0.57408804
+p.o.w,p.o.w,7,9.311017,-0.3750892
+parody,parody,7,9.007558,-0.5598417
+patriotism,patriotism,7,8.928126,-0.34043086
+period,period,7,7.475807,0.4444743
+pink,pink,7,8.584869,0.07348261
+politics,politics,7,7.3201475,0.79685956
+priquitianism,priquitianism,7,9.015115,-0.106340736
+prison,prison,7,7.500119,0.48868692
+propaganda,propaganda,7,8.172669,0.09983487
+punk,punk,7,7.4991326,0.89582634
+race,race,7,7.4967937,0.50471246
+reality,reality,7,7.8974648,0.25479192
+remake,remake,7,8.313434,0.018044217
+revenge,revenge,7,8.411694,-0.30276433
+road,road,7,7.4910693,0.4908188
+romance,romance,7,8.687655,-0.39652932
+school,school,7,8.074479,-0.25227886
+sentiment,sentiment,7,8.186464,-0.09375468
+sex,sex,7,7.555297,0.48086107
+sexploitation,sexploitation,7,9.169527,-0.4796943
+sf,sf,7,7.5851445,1.4283006
+silent,silent,7,8.599081,0.10552834
+splatter,splatter,7,8.112,0.0510942
+sports,sport,7,8.257315,-0.27568963
+sport,sport,7,8.263606,-0.25720993
+student,student,7,7.7024803,0.28671744
+surf,surf,7,7.8707123,0.57294047
+survival,survival,7,7.9032693,0.65143853
+suspense,suspense,7,8.649956,-0.2169262
+sword,sword,7,7.4590344,0.75422317
+thriller,thriller,7,8.858471,1.1990825
+tragedy,tragedy,7,8.907475,-0.49720702
+travel,travel,7,7.179397,0.92687005
+trilogy,trilogy,7,8.407123,-0.2308787
+war,war,7,7.511528,0.7219263
+youth,youth,7,8.715569,-0.26907578
+action-masala,action-masala,8,9.25196,2.5734448
+ajay,ajay,8,8.018308,2.5041692
+anime,anime,8,8.5213375,2.4241145
+arjun,arjun,8,8.710082,2.9405687
+arya,arya,8,7.523063,1.7792116
+bharath,bharath,8,8.713392,3.1582677
+bhavana,bhavana,8,8.738161,3.132377
+biker,biker,8,8.83636,1.3981045
+biogtaphy,biogtaphy,8,9.222611,2.6260028
+brahmanandam,brahmanandam,8,9.068817,3.2673743
+bramhanandam,bramhanandam,8,9.069223,3.209973
+buddy,buddy,8,8.838298,2.6572108
+chambara,chambara,8,8.631841,3.0188007
+chanbara,chanbara,8,8.87948,3.1747222
+charmme,charmme,8,9.02426,2.886395
+chiranjeevi,chiranjeevi,8,9.149256,3.2544518
+comedey,comedey,8,8.43876,2.5798666
+cowboy,cowboy,8,8.83304,1.4209003
+d. ramanaidu,d.ramanaidu,8,9.305482,3.1799228
+detective,detective,8,8.765967,1.3506078
+ero,ero,8,7.4932704,1.7734324
+fantay,fantay,8,8.048622,2.575093
+gangster,gangster,8,8.821549,1.4297141
+gore,gore,8,8.338613,2.3824646
+harem,harem,8,8.050321,2.4054215
+idol,idol,8,7.9531956,2.3940127
+imax,imax,8,8.402027,2.9756415
+j-horror,j-horror,8,9.301028,2.556455
+jayasudha,jayasudha,8,8.774745,3.2265787
+jeet,jeet,8,8.011738,2.1686661
+jidaigeki,jidaigeki,8,9.168183,3.2491763
+jr. ntr,jr.ntr,8,9.298511,3.1113462
+jyothika,jyothika,8,9.064784,2.6887345
+kaiju,kaiju,8,8.460091,2.835801
+kalyani,kalyani,8,8.921025,2.8995304
+keiji,keiji,8,8.59127,2.548995
+khushboo,khushboo,8,8.982279,2.8973908
+koyuki,koyuki,8,8.596329,2.999674
+krishnashankar,krishnashankar,8,9.312,3.1345382
+lgbt,lgbt,8,8.94917,2.6853018
+mammootty,mammootty,8,7.8223553,2.6903343
+masala,masala,8,8.466022,2.7623942
+mecha,mecha,8,7.898083,2.085166
+mocatsu,mocatsu,8,8.7491045,3.0778737
+mohanlal,mohanlal,8,8.626142,3.0616932
+nagarjuna,nagarjuna,8,8.954406,3.0249012
+nayantara,nayantara,8,8.622642,3.1821926
+noir,noir,8,8.520527,2.418753
+operetta,operetta,8,8.916378,2.8187904
+padmapriya,padmapriya,8,8.961113,2.9445868
+pooja,pooja,8,8.870742,2.6657217
+pow,pow,8,7.705844,1.9121282
+prabhas,prabhas,8,8.731568,3.1478934
+raja,raja,8,8.819002,2.731685
+rajasekhar,rajasekhar,8,9.090157,3.2010791
+ram,ram,8,7.648368,1.9181039
+rom-com,rom-com,8,9.260058,2.562142
+romcom,romcom,8,8.217553,2.8331037
+s. p. balu,s.p.balu,8,9.374997,2.9730873
+sada,sada,8,8.433008,2.5594501
+samurai,samurai,8,8.370025,2.5999506
+sandhya,sandhya,8,8.592838,3.0218523
+satire,satire,8,8.241151,2.35125
+sharwanand,sharwanand,8,8.800016,2.8921542
+shashank,shashank,8,8.820883,2.909631
+siddharth,siddharth,8,8.797605,2.9503393
+sivaji,sivaji,8,8.838939,3.2440794
+slahser,slahser,8,8.391163,2.742592
+slapstick,slapstick,8,8.667762,2.272093
+slasher,slasher,8,8.835995,1.4197525
+sneha,sneha,8,7.9878306,2.4949973
+spoof,spoof,8,7.746354,1.8330171
+spy,spy,8,7.819928,1.9591049
+srikanth,srikanth,8,8.816997,3.0379307
+stoner,stoner,8,8.708359,2.0375376
+suhasini,suhasini,8,8.447292,2.8941782
+sumanth,sumanth,8,8.788498,1.6905683
+sunil,sunil,8,8.511917,2.5194998
+superhero,superhero,8,8.818966,1.3575978
+superheroes,superhero,8,8.808536,1.4223455
+swashbuckler,swashbuckler,8,8.88876,1.3867619
+tabu,tabu,8,7.698077,1.92992
+thriler,thriler,8,9.027023,2.3970604
+tokusatsu,tokusatsu,8,9.005571,2.192314
+tragerdy,tragerdy,8,8.105238,2.7745318
+triller,triller,8,8.640517,1.3017596
+vigilante,vigilante,8,8.8743305,1.3824995
+wuxia,wuxia,8,8.718529,2.6194685
+yakuza,yakuza,8,9.029058,1.8581824
+action horror,action horror,9,-2.7161462,4.04043
+action thriller,action thriller,9,-2.4230514,4.066707
+adventure sci-fi,adventure sci-fi,9,-1.7415725,3.7154331
+anime sci-fi,anime sci-fi,9,-1.7459924,3.7372556
+apocalyptic thriller,apocalyptic thriller,9,-2.3453493,3.0592597
+biographical historical drama,biographical historical drama,9,-1.9223949,2.5517588
+biographical patriotic drama,biographical patriotic drama,9,-2.004001,2.532648
+biographical political thriller,biographical political thriller,9,-2.3130429,2.611449
+children's sci-fi,child's sci-fi,9,-1.3001754,4.099718
+comedy action,comedy action,9,-1.4439607,3.3316417
+comedy drama,comedy drama,9,-1.6028812,3.0817733
+comedy family drama,comedy family drama,9,-2.811878,3.008613
+comedy fantasy,comedy fantasy,9,-1.3917,3.448587
+comedy horror,comedy horror,9,-2.6951118,3.7639372
+comedy mystery,comedy mystery,9,-1.7905048,3.285557
+comedy road movie,comedy road movie,9,-2.7147725,3.1049457
+comedy romance,comedy romance,9,-1.3102677,3.3755112
+comedy romance drama,comedy romance drama,9,-2.861322,3.0404465
+comedy romantic thriller,comedy romantic thriller,9,-2.8930902,2.8691738
+comedy sci-fi,comedy sci-fi,9,-1.6606568,3.540509
+comedy spy,comedy spy,9,-1.8213149,3.2029998
+comedy thriller,comedy thriller,9,-2.8761082,3.0554237
+double-role action drama,double-role action drama,9,-3.0516505,2.3292909
+erotic thriller,erotic thriller,9,-2.3451219,2.9724932
+fantasy action adventure,fantasy action adventure,9,-2.4980452,3.5695856
+fantasy horror,fantasy horror,9,-2.7337668,3.739232
+fantasy thriller,fantasy thriller,9,-2.427545,3.4250576
+found footage,find footage,9,-2.1869292,3.751346
+historical costume drama,historical costume drama,9,-1.1957545,2.8703077
+historical epic drama,historical epic drama,9,-1.30735,2.7498188
+historical romantic drama,historical romantic drama,9,-1.4681147,2.701349
+historical romantic-fiction drama,historical romantic-fiction drama,9,-2.1265001,2.5609903
+historical-disaster romance,historical-disaster romance,9,-1.3482158,3.1482728
+immigrant family drama,immigrant family drama,9,-1.3315488,4.0583506
+lgbt-themed drama,lgbt-theme drama,9,-1.3777298,4.2221494
+martial art drama,martial art drama,9,-1.2123649,4.0882387
+medical thriller,medical thriller,9,-2.3812952,3.0640047
+musical thriller drama,musical thriller drama,9,-2.8507955,2.9339216
+physiological thriller,physiological thriller,9,-2.1799889,3.1281931
+political crime thriller,political crime thriller,9,-2.5768735,3.24717
+political thriller,political thriller,9,-2.3045127,3.0987475
+post-apocalyptic sci-fi,post-apocalyptic sci-fi,9,-1.6818507,3.5198653
+psy thriller,psy thriller,9,-2.3110242,3.7029438
+psychological action thriller,psychological action thriller,9,-2.5456843,3.124041
+psychological thriller,psychological thriller,9,-2.1515954,3.0648012
+rom-com drama,rom-com drama,9,-1.3927029,4.2417927
+romantic family drama,romantic family drama,9,-1.5080733,2.7536147
+romantic fantasy drama,romantic fantasy drama,9,-1.2755728,3.0636919
+romantic social drama,romantic social drama,9,-1.3754762,2.679557
+romantic spy drama,romantic spy drama,9,-1.4752145,2.7025428
+romantic thriller,romantic thriller,9,-2.2947972,2.9695306
+sci-fi,sci-fi,9,-1.164287,3.7389574
+sci-fi action,sci-fi action,9,-1.6976649,3.4971454
+sci-fi action adventure,sci-fi action adventure,9,-2.4336932,3.5391483
+sci-fi adventure,sci-fi adventure,9,-1.8870183,3.4938066
+sci-fi anime,sci-fi anime,9,-1.4353993,3.7429852
+sci-fi drama,sci-fi drama,9,-1.3756875,3.8196397
+sci-fi exploitation,sci-fi exploitation,9,-1.951797,3.4307818
+sci-fi fantasy,sci-fi fantasy,9,-1.63849,3.555014
+sci-fi horror,sci-fi horror,9,-2.6365032,3.5272295
+sci-fi lgbt-related drama,sci-fi lgbt-relate drama,9,-2.8796268,2.7269301
+sci-fi mystery,sci-fi mystery,9,-1.6623414,3.6007512
+sci-fi psychological thriller,sci-fi psychological thriller,9,-2.8357427,2.8554974
+sci-fi romance,sci-fi romance,9,-1.506795,3.4635968
+sci-fi romantic thriller,sci-fi romantic thriller,9,-2.8746693,2.763258
+sci-fi thriller,sci-fi thriller,9,-2.4840207,3.3156588
+semi-staged documentary,semi-staged documentary,9,-2.0173607,2.5191088
+social children drama,social child drama,9,-1.058061,3.6353643
+social crime drama,social crime drama,9,-1.0670078,3.625133
+social drama romance,social drama romance,9,-1.1647271,3.7077363
+social family drama,social family drama,9,-1.1121143,3.213393
+social romantic drama,social romantic drama,9,-1.2243962,2.834105
+social romantic melodrama,social romantic melodrama,9,-1.1291294,2.977206
+social satire drama,social satire drama,9,-1.2842203,4.1482825
+social sci-fi action,social sci-fi action,9,-2.074801,3.3290446
+social thriller,social thriller,9,-2.2255547,3.1940713
+spy comedy thriller,spy comedy thriller,9,-2.811321,3.2071855
+spy thriller,spy thriller,9,-2.144747,3.1627913
+steampunk,steampunk,9,-0.9781946,3.74482
+stop-motion animation,stop-motion animation,9,-2.9412136,2.415381
+stop-motion animation ,stop-motion animation,9,-2.9498518,2.4374526
+supernatural thriller,supernatural thriller,9,-2.3520696,3.0163577
+suspense action horror,suspense action horror,9,-2.5868475,4.02584
+swashbuckling musical romance,swashbuckling musical romance,9,-1.8554364,2.5800176
+teen fantasy drama,teen fantasy drama,9,-1.2412302,4.0580482
+time-travelling comedy,time-travel comedy,9,-2.967898,2.4358842
+urban thriller,urban thriller,9,-2.2305863,3.3754332
+western thriller,western thriller,9,-2.3447933,3.360513
